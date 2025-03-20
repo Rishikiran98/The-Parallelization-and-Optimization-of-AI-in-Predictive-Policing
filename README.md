@@ -1,11 +1,5 @@
 # The-Parallelization-and-Optimization-of-AI-in-Predictive-Policing
 
-Below is a comprehensive README file for your project. It covers the project's aim, scope, current progress, and future directions—incorporating details from your proposal.
-
----
-
-# Predictive Policing: The Parallelization and Optimization of AI in Crime Forecasting
-
 ## Overview
 
 This project aims to develop an ethical and computationally efficient predictive policing system. By combining fairness-aware AI methods with parallelized, optimized machine learning algorithms, the goal is to forecast crime hotspots accurately while mitigating bias and ensuring transparency. The system leverages multiple datasets—primarily the Chicago Crime Dataset and the UCI Communities and Crime Dataset—to drive a model that is both robust and interpretable.
